@@ -1,75 +1,68 @@
-🍽️ Restaurant Website – Internship Project:
+🍽️ Restaurant Website – Frontend Internship Project
 
-A modern and responsive Restaurant Website frontend project built as part of an internship. This project showcases a clean UI design for a restaurant with multiple pages such as Home, Menu, About, and Contact.
+A modern and responsive Restaurant Website built as part of a frontend internship project. This website is designed to provide an engaging user experience with a clean layout, responsive design and intuitive navigation across different devices.
 
+🌐 Live Demo:
 
+GitHub Repository:
+https://github.com/hasanm2004/restaurant-website--internship2
 
-📌 Live Demo:
-
-https://github.com/hasanm2004/restaurant-website--internship2.git
+Website Preview:
 https://hasanm2004.github.io/restaurant-website--internship2/
-```
 
+✨ Features:
 
-Features:
-
-🏠 Home page with attractive landing section
-📖 About page describing the restaurant
-🍔 Menu page displaying food items
-📞 Contact page for customer inquiries
+🏠 Attractive homepage with hero section
+📖 About section introducing the restaurant
+🍔 Menu section displaying food items and prices
+📞 Contact section for customer interaction
 🎨 Clean and modern UI design
-📱 Responsive layout (mobile + desktop friendly)
-🔗 Easy navigation between pages
+📱 Fully responsive layout (Desktop + Tablet + Mobile)
+🔗 Smooth navigation experience
+⚡ Hover effects and interactive styling
 
 
-
-Built With:
+🛠️ Technologies Used:
 
 HTML5
 CSS3
-JavaScript (Vanilla JS)
+Responsive Design (CSS Media Queries)
 
-
-📂 Project Structure
+📂 Project Structure:
 
 restaurant-website--internship2/
 │
-├── index.html        # Home Page
-├── about.html        # About Page
-├── menu.html         # Menu Page
-├── contact.html      # Contact Page
+├── index.html          # Main webpage
+├── style.css           # Styling & responsive design
 │
-├── css/
-│   └── style.css     # Main Stylesheet
-│
-├── js/
-│   └── script.js     # JavaScript file
-│
-└── images/           # Images used in website
+└── images/             # Website images
 
 
-Project Objective:
+🎯 Project Objective:
 
-The objective of this project is to design and develop a **frontend restaurant website** that provides a smooth user experience and demonstrates skills in HTML, CSS and JavaScript.
+The goal of this project was to create a responsive restaurant website frontend and improve understanding of:
 
+HTML structure
+CSS styling
+Flexbox layouts
+Responsive design
+Media Queries
+User Interface design principles
 
-Future Improvements:
+🚀 Future Improvements:
 
-Add shopping cart functionality
-Online food ordering system 
-Backend integration (Node.js / PHP)
-User authentication (login/signup)
-Database for menu & orders
+Add multiple pages (Menu, Contact, About)
+Shopping cart interface
+Food ordering system
+Backend integration
+Authentication system
 
+ Author: Hasan Mustafa (Frontend Developer Intern)
 
-Author:
+📄 License:
 
-Hasan Mustafa (Frontend Developer Intern)
+This project was created for learning, practice,and internship purposes.
 
-
-License:
-
-This project is created for learning and internship purposes.
 
 
 
